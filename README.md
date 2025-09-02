@@ -1,6 +1,6 @@
 # Samsung Innovation Campus
 
-## My projects
+## My projects (Проекты расположены в порядке приоритета)
 Электронный журнал (c UML моделью): 
 E-journal - https://github.com/Igor-ello/E-journal.git
 
