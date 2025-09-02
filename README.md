@@ -1,14 +1,14 @@
 # Samsung Innovation Campus
 
 ## My projects
-Электронный журнал
+Электронный журнал (c UML моделью): 
 E-journal - https://github.com/Igor-ello/E-journal.git
 
-Сапёр
+Сапёр: 
 Cells - https://github.com/Igor-ello/Cells/tree/master
 
-Предсказание погоды
+Предсказание погоды: 
 MeteoService - https://github.com/Igor-ello/MeteoService.git
 
-Игра с использованием сенсоров в телефоне
+Игра с использованием сенсоров в телефоне: 
 BallSensors - https://github.com/Igor-ello/BallSensors.git  
