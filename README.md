@@ -1,5 +1,4 @@
-# Samsung-
-Samsung Innovation Campus
+# Samsung Innovation Campus
 
 My projects  
 E-journal - https://github.com/Igor-ello/E-journal.git  
